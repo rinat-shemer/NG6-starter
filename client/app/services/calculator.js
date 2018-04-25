@@ -67,7 +67,7 @@ export default class Calculator {
     }
 
     performCalculation() {
-        return this.operator.performCalculation(this.operand1, this.operand2);;
+        return this.operator.performCalculation(this.operand1, this.operand2);
     }
 
     clear() {

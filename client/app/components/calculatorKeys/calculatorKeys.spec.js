@@ -1,4 +1,4 @@
-import CalculatorKeysModule from './calculatorKeys';
+/*import CalculatorKeysModule from './calculatorKeys';
 import CalculatorKeysController from './calculatorKeys.controller';
 import CalculatorKeysComponent from './calculatorKeys.component';
 import CalculatorKeysTemplate from './calculatorKeys.html';
@@ -46,4 +46,4 @@ describe('CalculatorKeys', () => {
       expect(component.controller).to.equal(CalculatorKeysController);
     });
   });
-});
+});*/
