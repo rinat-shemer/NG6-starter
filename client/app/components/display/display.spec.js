@@ -1,4 +1,4 @@
-import DisplayModule from './display';
+/*import DisplayModule from './display';
 import DisplayController from './display.controller';
 import DisplayComponent from './display.component';
 import DisplayTemplate from './display.html';
@@ -46,4 +46,4 @@ describe('Display', () => {
       expect(component.controller).to.equal(DisplayController);
     });
   });
-});
+});*/
